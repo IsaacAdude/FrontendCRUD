@@ -1,0 +1,15 @@
+/* Custom Styles */
+body {
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .navbar {
+    background: #000;
+  }
+  
+  .site-footer {
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+  }
+  

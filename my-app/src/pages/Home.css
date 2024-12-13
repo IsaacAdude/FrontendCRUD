@@ -1,0 +1,30 @@
+/* Container Background */
+.home-container {
+    background-image: url('../assets/background.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    padding: 20px;
+    color: #fff;
+  }
+  
+  /* Transparent Table */
+  .table {
+    background: rgba(255, 255, 255, 0.7); /* White with 70% opacity */
+    backdrop-filter: blur(10px); /* Adds a subtle blur effect */
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  }
+  
+  /* Table Head Styling */
+  .table th {
+    background: rgba(255, 255, 255, 0.9);
+    color: #000;
+  }
+  
+  /* Table Row Hover Effect */
+  .table tbody tr:hover {
+    background: rgba(255, 255, 255, 0.5);
+  }
+  

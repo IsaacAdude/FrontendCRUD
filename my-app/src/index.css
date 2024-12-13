@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.bg-purple {
+  background: linear-gradient(90deg, #6a0dad, #8e44ad);
+}
+
+.carousel-inner {
+  height: 500px;
+}
+
+.carousel-item img {
+  object-fit: cover;
+  height: 500px;
+  width: 100%;
+}
